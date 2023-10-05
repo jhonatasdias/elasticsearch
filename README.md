@@ -1,2 +1,3 @@
-# elasticsearch
+# Elasticsearch
+
 First steps with Elasticsearch
